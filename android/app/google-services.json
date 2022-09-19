@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933161310912",
+    "project_id": "gammal-tech-community-aca17",
+    "storage_bucket": "gammal-tech-community-aca17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933161310912:android:95106f0ed02ea4e34beb25",
+        "android_client_info": {
+          "package_name": "com.example.gammal_tech_community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933161310912-ipu4s1hicrr23m2ujeilhv8u1jrq131t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gammal_tech_community",
+            "certificate_hash": "466f82b409df1826aed3bcc99da65b3a253d40fb"
+          }
+        },
+        {
+          "client_id": "933161310912-ac0ugc1b5i8rsaa9p20sfsbin1esmunt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SoWi9IlBP617DTYEg8jbOUgpfaL7szc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933161310912-ac0ugc1b5i8rsaa9p20sfsbin1esmunt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
